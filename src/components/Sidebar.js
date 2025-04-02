@@ -21,11 +21,11 @@ const Sidebar = () => {
 
       <h1 className='font-bold pt-5'>You </h1>
       <ul className='my-2 border-b border-gray-300 '>
-        <li className='my-3 flex'><img className='w-4 h-4' src='https://clipground.com/images/youtube-logo-clipart-file-2.png'/> Your Channel</li>
+        <li className='my-3 flex'> Your Channel</li>
         <li className='my-3'>History</li>
         <li className='my-3 flex'>Playlist</li>
         <li className='my-3 flex'>Your videos</li>
-        <li className='my-3'> <FontAwesomeIcon icon={faHouse} />Your courses</li>
+        <li className='my-3'> Your courses</li>
         <li className='my-3'> Watch later</li>
         <li className='my-3'>Liked videoes</li>
       </ul>
